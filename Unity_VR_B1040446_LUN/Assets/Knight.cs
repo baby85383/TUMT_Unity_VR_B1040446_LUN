@@ -7,10 +7,9 @@ public class Knight : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "刀")
+        if (other.tag == "騎士")
         {
-            Destroy(gameObject);
-            knight1 = true;
+            score.getscore += 1;
         }
     }
 }
