@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/USER/Desktop/KID/TUMT_Unity_VR_B1040446_LUN/Unity_VRGAME_B1040446_LUN/Unity_VR_B1040446_LUN.exe
+C:/Users/USER/Desktop/KID/TUMT_Unity_VR_B1040446_LUN/Unity_VRGAME_B1040446_LUN/EXE/Unity_VR_B1040446_LUN.exe
 SceneListBegin?
 Assets/Scenes/場景.unity
 SceneListEnd?
